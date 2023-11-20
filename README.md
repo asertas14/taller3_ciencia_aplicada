@@ -5,6 +5,19 @@
 
 LINK VIDEO DESPLIEGUE API: https://youtu.be/Ony9JVhb8Ho
 
+**SHAP VALUES**
+
+![image](https://github.com/asertas14/taller3_ciencia_aplicada/assets/141885465/e9c24079-31e9-4a82-a6c9-885fb6f4fa48)
+
+![image](https://github.com/asertas14/taller3_ciencia_aplicada/assets/141885465/47659a84-b557-417c-b84c-152237349688)
+
+![image](https://github.com/asertas14/taller3_ciencia_aplicada/assets/141885465/ee8cbcd2-7a2c-4d00-b08f-59bf3d265d54)
+
+![image](https://github.com/asertas14/taller3_ciencia_aplicada/assets/141885465/eabc9595-407e-424d-aa61-626f98344bde)
+
+![image](https://github.com/asertas14/taller3_ciencia_aplicada/assets/141885465/64cf42a8-db8c-44b2-8448-30258767dc3a)
+
+
 ## Primera Pregunta: Desarrollo del Modelo
 ¿Se evidencian problemas de overfitting o underfitting? ¿Cómo solucionarlos y a la vez continuar mejorando la capacidad predictiva del modelo?
 
