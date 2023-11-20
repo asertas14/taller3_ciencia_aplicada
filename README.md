@@ -17,6 +17,8 @@ LINK VIDEO DESPLIEGUE API: https://youtu.be/Ony9JVhb8Ho
 
 ![image](https://github.com/asertas14/taller3_ciencia_aplicada/assets/141885465/64cf42a8-db8c-44b2-8448-30258767dc3a)
 
+En general, la gráfica indica que el clasificador es capaz de distinguir entre las dos clases, pero no es perfecto. El clasificador tiene una mayor probabilidad de predecir la clase correcta para instancias que tienen una alta probabilidad de pertenecer a esa clase, pero también tiene una probabilidad significativa de predecir la clase equivocada para instancias que tienen una probabilidad media de pertenecer a cualquiera de las dos clases.
+
 
 ## Primera Pregunta: Desarrollo del Modelo
 ¿Se evidencian problemas de overfitting o underfitting? ¿Cómo solucionarlos y a la vez continuar mejorando la capacidad predictiva del modelo?
