@@ -3,6 +3,8 @@
 # Taller 3 Ciencia de Datos Aplicada
 
 
+LINK VIDEO DESPLIEGUE API: https://youtu.be/Ony9JVhb8Ho
+
 ## Primera Pregunta: Desarrollo del Modelo
 ¿Se evidencian problemas de overfitting o underfitting? ¿Cómo solucionarlos y a la vez continuar mejorando la capacidad predictiva del modelo?
 
