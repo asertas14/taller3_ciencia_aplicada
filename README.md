@@ -5,7 +5,7 @@
 
 LINK VIDEO DESPLIEGUE API: https://youtu.be/Ony9JVhb8Ho
 
-**SHAP VALUES**
+**SHAP VALUES** Favor referirse al cuaderno "ShapValues para ver el ejercicio"
 
 ![image](https://github.com/asertas14/taller3_ciencia_aplicada/assets/141885465/e9c24079-31e9-4a82-a6c9-885fb6f4fa48)
 
